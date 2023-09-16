@@ -56,9 +56,9 @@ sh pipeline.sh
 
 下面是得到的词汇表
 
-![单词](https://github.com/Skywalker-Harrison/AutoRead/Image/1.png)
+![单词](https://github.com/Skywalker-Harrison/AutoRead/blob/main/Image/2.png)
 
-![上下文](https://github.com/Skywalker-Harrison/AutoRead/Image/2.png)
+![上下文](https://github.com/Skywalker-Harrison/AutoRead/blob/main/Image/1.png)
 
 # 后续改进安排
 
