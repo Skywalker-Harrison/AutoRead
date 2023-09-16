@@ -36,7 +36,7 @@ git clone
 pip install -r requirements.txt
 ```
 在[百度网盘](https://pan.baidu.com/s/1NR3u67o_TXHN12Lfwj3O2g) (提取码w0pe)下载`ecdict.csv`以及`stardict.7z`文件，并放置在`ECDICT\`目录下。
-复制你的PDF文件路径，然后修改`pipeline.sh`中的参数`PDF_FILE_PATH`为你的pdf目录，`USER_LEVEL`为您希望搜集的词汇水平，从易到难依次编号（0-中考英语，1-高考英语，2-CET4, 3-CET6, 4-考研，5-TOEFL，IELTS，6-GRE）。本项目将为你总结您需要的难度及其难度以上的词汇。
+复制你的PDF文件路径，然后修改`pipeline.sh`中的参数`PDF_FILE_PATH`为你的pdf路径，`USER_LEVEL`为您希望搜集的词汇水平，从易到难依次编号（0-中考英语，1-高考英语，2-CET4, 3-CET6, 4-考研，5-TOEFL，IELTS，6-GRE）。本项目将为你总结您需要的难度及其难度以上的词汇。
 
 随后在sh环境当中运行
 
