@@ -56,9 +56,9 @@ sh pipeline.sh
 
 下面是得到的词汇表
 
-![Untitled](AutoRead%20%E9%80%9A%E8%BF%87pdf%E7%9B%B4%E6%8E%A5%E7%94%9F%E6%88%90%E4%BD%A0%E7%9A%84%E8%AF%8D%E6%B1%87%E8%A1%A8%2022d926ad921a400d852741edac5ba6f6/Untitled.png)
+![单词](https://github.com/Skywalker-Harrison/AutoRead/Image/1.png)
 
-![Untitled](AutoRead%20%E9%80%9A%E8%BF%87pdf%E7%9B%B4%E6%8E%A5%E7%94%9F%E6%88%90%E4%BD%A0%E7%9A%84%E8%AF%8D%E6%B1%87%E8%A1%A8%2022d926ad921a400d852741edac5ba6f6/Untitled%201.png)
+![上下文](https://github.com/Skywalker-Harrison/AutoRead/Image/2.png)
 
 # 后续改进安排
 
