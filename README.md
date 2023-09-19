@@ -27,7 +27,7 @@ AutoRead这个项目可以满足你的需求！ 🥰 通过版面分析方法将
 下载本git repo到你的目录
 
 ```python
-git clone 
+git clone https://github.com/Skywalker-Harrison/AutoRead.git
 ```
 
 下载所需要的安装包
